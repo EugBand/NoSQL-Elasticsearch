@@ -1,0 +1,5 @@
+application:
+  elasticsearch:
+    server: localhost
+    port: 49153
+    protocol: http
